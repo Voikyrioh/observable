@@ -5,8 +5,7 @@
   "main": "index.ts",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc ."
+    "ci": "tsc --noEmit"
   },
   "author": "Voiky (voikyrioh@gmail.com)",
   "license": "ISC",

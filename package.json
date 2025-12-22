@@ -1,6 +1,6 @@
 {
   "name": "@Voikyrioh/observable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple event observable system",
   "main": "index.ts",
   "type": "module",
@@ -12,8 +12,16 @@
   "devDependencies": {
     "typescript": "^4.5.4"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/",
+    "scope": "@Voikyrioh",
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Voikyrioh/observable.git"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }

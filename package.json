@@ -1,5 +1,5 @@
 {
-  "name": "observable",
+  "name": "@Voikyrioh/observable",
   "version": "0.1.0",
   "description": "Simple event observable system",
   "main": "index.ts",
@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Voikyrioh/observable.git"
   }
 }

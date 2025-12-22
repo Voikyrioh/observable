@@ -15,7 +15,7 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/",
-    "scope": "@Voikyrioh",
+    "scope": "@Voikyrioh"
   },
   "repository": {
     "type": "git",

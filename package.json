@@ -1,0 +1,16 @@
+{
+  "name": "observable",
+  "version": "1.0.0",
+  "description": "Simple event observable system",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc ."
+  },
+  "author": "Voiky (voikyrioh@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
